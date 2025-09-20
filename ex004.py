@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n = input('Digite: ')
 print('O tipo primitivo do valor?',type(n))
 print('é um numero?',n.isnumeric())
@@ -7,3 +8,14 @@ print('tem espaco?',n.isspace())
 print('é maiúscula?',n.isupper())
 print('é minúscula?',n.islower())
 print('é capitalizada?',n.istitle())
+=======
+n = input('Digite: ')
+print('O tipo primitivo do valor?',type(n))
+print('é um numero?',n.isnumeric())
+print('é alfabético?',n.isalpha())
+print('é alfanumérico?',n.isalnum())
+print('tem espaco?',n.isspace())
+print('é maiúscula?',n.isupper())
+print('é minúscula?',n.islower())
+print('é capitalizada?',n.istitle())
+>>>>>>> 9ef701fdd89f130c8b5aa1703d999251ccfa1bc6
